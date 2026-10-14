@@ -1,6 +1,6 @@
 # Civic-Chain × Broadband Telecom: A Partnership Proposal
 
-**Created:** 2026-10-14. **Prepared for:** Broadband Telecom Services. **From:** Justin Harvey, Civic-Chain.
+**Created:** 2026-10-14. **Prepared for:** Broadband Telecom Services. **From:** Nick Hernandez, Civic-Chain.
 
 What this is. A proposal to turn the municipal and grant relationships Broadband Telecom already owns into a recurring revenue stream, by co-selling Civic-Chain's public-money accountability platform into the towns and agencies you already serve.
 
@@ -109,7 +109,7 @@ If this fits how Broadband Telecom already works, the next step is small:
 - Together we pick **three to five target towns or grant engagements** where you already have the relationship.
 - We sign a **one-page partner agreement** and register those accounts to you.
 
-**Justin Harvey**, Civic-Chain — [jharvmail@gmail.com](mailto:jharvmail@gmail.com) · [linkedin.com/in/justin-harvey-cspo](https://www.linkedin.com/in/justin-harvey-cspo)
+**Nick Hernandez**, Civic-Chain — [Nick@civic-chain.com](mailto:Nick@civic-chain.com)
 
 <!-- footer -->
 
