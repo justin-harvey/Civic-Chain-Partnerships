@@ -32,17 +32,18 @@ The subscription starts small and recurring; the payment product adds a small us
 
 ---
 
-## 3. This is proven, not a concept
+## 3. A built platform, opening institutional doors
 
-Civic-Chain is in market today, not a pitch deck:
+Civic-Chain is a working product with a credible, near-term path into the market:
 
-- **A paying commercial customer** on the platform right now.
-- **Two paid design partnerships** with Maine municipalities, charged from day one. We do not do free pilots; a town that funds the work is a town with a real problem.
-- **A production-ready platform** with live, clickable demos (below).
+- **A production-ready platform.** The core product is built and operating. The links below are public-facing demonstrations; the real platform is securely gated behind hashed keys and know-your-business (KYB) verification, because it handles live public money.
+- **Institutional traction forming.** We are in active consideration with the **Maine Municipal Association** and the **Greater Portland Council of Governments (GPCOG)**. These are not one-town deals: advancing with them opens a single trusted channel to roughly **400 municipalities and a county government**.
 - **Four patents pending** on the blockchain-payment architecture.
 - **A founding team that built Tyler Technologies' government payment products for 6+ years**, paired with a real-time-fintech CTO.
 
-See it working: [Transparency Layer](https://civic-chain-tlaas.netlify.app/overview) · [Verified Intelligence](https://vanguard-mcp.netlify.app/) · [Tax Increment Financing](https://tax-increment-financing.netlify.app/)
+See the public demonstrations: [Transparency Layer](https://civic-chain-tlaas.netlify.app/overview) · [Verified Intelligence](https://vanguard-mcp.netlify.app/) · [Tax Increment Financing](https://tax-increment-financing.netlify.app/)
+
+*These are public-facing demos, not the live product. The real platform is locked behind hashed keys and know-your-business verification.*
 
 ---
 

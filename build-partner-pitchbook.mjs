@@ -104,7 +104,9 @@ function clientApp() {
     'TIF': 'Tax Increment Financing: funding public projects against future tax growth in a district.',
     'IoT': 'Internet of Things: connected sensors and devices.',
     'SOC 2': 'A standard security and controls audit.',
-    'SaaS': 'Software as a Service: subscription software.'
+    'SaaS': 'Software as a Service: subscription software.',
+    'KYB': 'Know Your Business: verifying an organization’s identity before granting access.',
+    'GPCOG': 'Greater Portland Council of Governments: a regional council of Maine municipalities.'
   };
   function glossRx(){
     var keys = Object.keys(GLOSSARY).sort(function(a, b){ return b.length - a.length; });
