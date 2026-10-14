@@ -1,0 +1,12 @@
+# Publish ONLY the built site/ directory. The markdown source and builder stay in the repo
+# but are never served.
+[build]
+  publish = "site"
+
+# Partner-outreach proposal: a shareable public link, but kept out of search engines.
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Robots-Tag = "noindex, nofollow, noarchive"
+    X-Frame-Options = "DENY"
+    Referrer-Policy = "no-referrer"
