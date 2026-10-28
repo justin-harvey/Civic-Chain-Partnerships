@@ -106,7 +106,13 @@ function clientApp() {
     'SOC 2': 'A standard security and controls audit.',
     'SaaS': 'Software as a Service: subscription software.',
     'KYB': 'Know Your Business: verifying an organization’s identity before granting access.',
-    'GPCOG': 'Greater Portland Council of Governments: a regional council of Maine municipalities.'
+    'GPCOG': 'Greater Portland Council of Governments: a regional council of Maine municipalities.',
+    'SWAM': 'Small, Women-owned, and Minority-owned business: a Virginia state vendor certification.',
+    'VATI': 'Virginia Telecommunication Initiative: the state broadband grant program.',
+    'DHCD': 'Virginia Department of Housing and Community Development, which runs the state broadband grants.',
+    'SLFRF': 'State and Local Fiscal Recovery Funds: the ARPA recovery money sent to states and localities.',
+    'DPA': 'Data Processing Addendum: the contract terms that govern how covered data is handled.',
+    'SLA': 'Service Level Agreement: the uptime targets and service credits a vendor commits to.'
   };
   function glossRx(){
     var keys = Object.keys(GLOSSARY).sort(function(a, b){ return b.length - a.length; });
